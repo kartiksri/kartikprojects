@@ -1,0 +1,13 @@
+body{
+	background-color: red;
+}
+
+#header-nav{
+	background-color: green;
+	border: 0
+	border-radius: 0;
+}
+
+#logo{
+	background: url(https://www.patchcollection.com/media/catalog/product/cache/1/image/1200x/040ec09b1e35df139433887a97daa66f/a/v/avengers-color-emblem.jpg)
+}
